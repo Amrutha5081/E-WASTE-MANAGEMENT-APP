@@ -4,4 +4,5 @@
 
 <p>In order to run it, you can use the command -</p>
 <em>python3 app.py</em>
-<img src="https://ibb.co/31ZcB4c"></img>
+<img src="![image](https://github.com/Amrutha5081/E-waste-management-app/assets/92784025/dffcf93b-19b9-4d9f-a1c9-7dd13cc3e4dd)
+"></img>
