@@ -4,4 +4,4 @@
 
 <p>In order to run it, you can use the command -</p>
 <em>python3 app.py</em>
-<img src="https://photos.google.com/photo/AF1QipOWm4Hp0ruDrPUCRqkro_fz2GykRIBvjFzR1m9i"></img>
+<img src="https://ibb.co/31ZcB4c"></img>
